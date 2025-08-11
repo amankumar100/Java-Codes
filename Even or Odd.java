@@ -1,6 +1,6 @@
 // Question: Write a Java program to check if a given integer is even or odd.
 
-import java.util.Scanner;
+import java.util.*;
 
 public class EvenOdd {
     public static void main(String[] args) {
