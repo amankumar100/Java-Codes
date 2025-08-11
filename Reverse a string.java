@@ -1,6 +1,6 @@
 // Question: Write a Java program to reverse a given string without using built-in reverse methods.
 
-import java.util.Scanner;
+import java.util.*;
 
 public class ReverseString {
     public static void main(String[] args) {
