@@ -4,7 +4,9 @@
   <img width="931" height="286" alt="Java" src="https://github.com/user-attachments/assets/522d9d79-037a-4e80-aba4-cffa401859e9" />
 </p>
 
-<a target="_blank" href="https://icons8.com/icon/ETDhNONw82Nc/java">Java</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+![icons8-java](https://github.com/user-attachments/assets/23d2ba8a-76a6-48fe-b182-0c9d4bc3e0cb)
+
+
 ---
 
 ## 📑 Table of Contents
