@@ -1,4 +1,4 @@
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2t5d2hsdng4YzkwcHJzcmZmbnFndnEwOTB2cXp2aGs0eWtqNXRsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif
+![welcome](https://github.com/user-attachments/assets/069c83c1-964d-4b32-96f5-ef0cbdd05380)
 
 # 🚀 All Java Codes
 
