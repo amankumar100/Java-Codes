@@ -1,3 +1,5 @@
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2t5d2hsdng4YzkwcHJzcmZmbnFndnEwOTB2cXp2aGs0eWtqNXRsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif
+
 # 🚀 All Java Codes
 
 <p align="center">
