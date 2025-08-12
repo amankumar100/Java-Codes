@@ -1,5 +1,4 @@
 ![welcome](https://github.com/user-attachments/assets/069c83c1-964d-4b32-96f5-ef0cbdd05380)
-![welcome](https://github.com/user-attachments/assets/069c83c1-964d-4b32-96f5-ef0cbdd05380)
 
 # 🚀 All Java Codes
 
