@@ -1,21 +1,31 @@
 # 🚀 All Java Codes
 
-![Project Banner](https://your-image-link.png)
+<p align="center">
+  <img src="https://your-image-link.png" alt="Project Banner" width="600"/>
+</p>
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 - [About](#about)
 - [Features](#features)
 
 ---
 
-## About
+## 📖 About
 
-This page contains almost all java codes.  
+> This page contains almost **all Java codes**, from basic to advanced snippets.
 
-## Features
+---
+
+## ✨ Features
 
 - ✅ Clean and modular Java code  
-- 🚀 Basic to advance  
-- 🔧 No bug or error  
+- 🚀 Covers basic to advanced concepts  
+- 🔧 Tested and free from errors  
+
+---
+
+<p align="center">
+  <sub>Made with ❤️ by Aman</sub>
+</p>
