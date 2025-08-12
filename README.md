@@ -1,4 +1,3 @@
-![welcome](https://github.com/user-attachments/assets/069c83c1-964d-4b32-96f5-ef0cbdd05380)
 ![w1](https://github.com/user-attachments/assets/5fd67562-03e1-4216-a8b9-97f5246dbbc0)
 
 
