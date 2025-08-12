@@ -32,4 +32,4 @@ This page contains almost all java codes.
 Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/amankumar100/Java-Codes.git
