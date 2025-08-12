@@ -1,5 +1,4 @@
-![w1](https://github.com/user-attachments/assets/5fd67562-03e1-4216-a8b9-97f5246dbbc0)
-
+![w1](https://github.com/user-attachments/assets/f55a5314-5f21-4a7b-b396-805b25701fe4)
 
 # 🚀 All Java Codes
 
