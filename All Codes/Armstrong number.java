@@ -1,5 +1,4 @@
 // Question: Write a Java program to check if a number is an Armstrong number.
-// Example: 153 = 1^3 + 5^3 + 3^3 → Armstrong number.
 
 import java.util.*;
 
