@@ -1,4 +1,13 @@
-// Java Program to print Palindrome triangle pattern 
+/* Java Program to print Palindrome triangle pattern 
+
+          1 
+        2 1 2 
+      3 2 1 2 3 
+    4 3 2 1 2 3 4 
+  5 4 3 2 1 2 3 4 5 
+6 5 4 3 2 1 2 3 4 5 6
+
+*/
 
 import java.util.*;
 
